@@ -1,0 +1,2 @@
+clang variable.c && ./a.out
+clang datatype.c && ./a.out
